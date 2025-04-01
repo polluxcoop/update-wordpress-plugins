@@ -162,8 +162,8 @@ When using `--save-old-logs`, existing log files will be backed up with the curr
 This script was developed by [Pollux](https://polluxcoop.com), a free software cooperative based in Argentina.
 
 Contributors:
-- Sergio Milardovich
-- Tomás Brasca
+- Sergio Milardovich (@milardovich)
+- Tomás Brasca (@soundOfff)
 
 ## License
 

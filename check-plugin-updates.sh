@@ -5,7 +5,7 @@
 #
 # Version: 1.0
 #
-# Authors: Sergio Milardovich, Tomas Brasca
+# Authors: Sergio Milardovich (@milardovich), Tomas Brasca (@soundOfff)
 #
 # WARNING: This script will modify your WordPress installation.
 #          Always backup your files and database before running this script.
